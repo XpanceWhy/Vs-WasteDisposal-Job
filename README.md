@@ -4,8 +4,7 @@ Waste disposal job with animations
 # Depedencies
 - QBCORE
   - Qb-vehicle keys (given with the script)
-OR
-- ESX
+- ESX (soon)
 
 # Links
 [PREVIEW] : https://www.youtube.com/watch?v=ug-yl43PTTM&ab_channel=Vestige
