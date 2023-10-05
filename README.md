@@ -1,7 +1,7 @@
 # Vs-WasteDisposal-Job
 Waste disposal job with animations
 
-#Depedencies
+# Depedencies
 - QBCORE
   - Qb-vehicle keys (given with the script)
 
